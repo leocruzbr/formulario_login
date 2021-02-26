@@ -26,3 +26,4 @@ inputSenha.addEventListener("focus", function() {
 inputSenha.addEventListener("blur", function() {
     inputSenha.style.borderColor = "#CCC"
 });
+//ABERTO A MELHORIAS...
